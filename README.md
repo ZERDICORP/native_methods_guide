@@ -14,8 +14,7 @@ This mechanism is called **JNI**, and in this quick tutorial, I'll show you how 
 ## Quick Step-By-Step Guide :older_man:
 
 #### 1. Let's create two java classes
-> As you can see from the class below, it has the static (static is not necessary) native method we need, called `compute` and accepting 2 integers as parameters. 
->  
+> As you can see from the class below, it has the static (static is not necessary) native method we need, called `compute` and accepting 2 integers as parameters.  
 > You may also notice how we load a `libSum.so` file (we'll be sure to create one later) containing the implementation of our native method.
 ```java
 // Sum.java
