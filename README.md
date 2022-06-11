@@ -1,7 +1,7 @@
 # native_methods_guide :octopus:
-#### A small guide to creating your own native method in Java.
+#### A small guide to creating your own native methods in Java.
 
-## What? Native methods? :eyes:
+## What are native methods? :eyes:
 **Native methods** are:
 * Methods that have **no implementation** (are essentially a **function prototype**);
 * Methods that describe functions written in **another programming language**;
