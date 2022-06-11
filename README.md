@@ -1,4 +1,4 @@
-# native_method_guide :octopus:
+# native_methods_guide :octopus:
 #### A small guide to creating your own native method in Java.
 
 ## What? Native methods? :eyes:
