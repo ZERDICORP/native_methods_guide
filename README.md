@@ -95,7 +95,7 @@ $ gcc -I/usr/lib/jvm/java-17-openjdk/include/ -I/usr/lib/jvm/java-17-openjdk/inc
 
 #### 5. Finally, let's run our java program
 ```
-$ javac Main.java || java Main
+$ javac Main.java && java Main
 10
 ```
 
